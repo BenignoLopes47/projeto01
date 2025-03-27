@@ -17,3 +17,5 @@ def main(page: ft.Page):
     page.add(example())
 
 ft.app(target=main)
+
+print("Hello World")
